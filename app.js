@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-08T18:01:26.671Z
-Commit: Introduce real-time notifications
+Timestamp: 2026-03-08T18:01:30.530Z
+Commit: Add multi-language support
